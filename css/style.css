@@ -1,0 +1,12 @@
+body > h1,
+body > p {
+  text-align: center;
+}
+
+#survey-form {
+  width: 50vw;
+  margin: 0 auto;
+  border: 1px solid #333;
+  border-radius: 15px;
+  padding: 2em;
+}
